@@ -36,8 +36,25 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ![image](https://user-images.githubusercontent.com/36288975/170623020-f27efc12-bb58-4f62-840d-af544ac6689e.png)
 
 ### PROCEDURE:
+STEP 1:Open Robo Analyser
 
+![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/66def37e-14a5-4b1e-9e9b-d6eb6b45a2a3)
 
+STEP 2:Set DoF as 3.
+
+![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/40e1f10c-b319-43b0-924d-150f001873de)
+
+STEP 3:Select IKin in Analyses to set the parameters .
+
+![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/345d3fa9-f489-4359-a654-deb01d95b8cb)
+
+SETP 4: After setting the parameters ,select FKin in analyses.
+
+ ![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/ee5297f5-22b9-4815-92bd-e64c70263c78)
+
+STEP 5: Select Graph -> Select Links or Joints to plot the graph respectively
+
+![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/df9bc708-8716-4431-95da-4f7fe91c7456)
 
 
 
@@ -47,39 +64,56 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ### SIMULATION 
  
  
- 
+ ![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/ee5297f5-22b9-4815-92bd-e64c70263c78)
+
  
  
  
  
  ### PLOT 
  
+ LINKS:
+ 
+ LINK 1:
+ 
+ ![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/e93e95af-b48a-4efc-be66-ea4036e21f74)
+
+
+LINK 2:
+
+![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/df9bc708-8716-4431-95da-4f7fe91c7456)
+
+LINK 3:
+
+![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/8d5a9788-071a-4aba-9a87-4868ef510970)
+
+
+JOINTS:
+
+JOINT 1:
+
+![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/fd461064-7add-438d-b45b-562046d3536e)
+
+
+JOINT 2:
+
+![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/bf8f62eb-f20c-4ce8-bb4d-a17ff21573bc)
+
+JOINT 3:
+
+![image](https://github.com/Dhanush12022004/Inverse-kinematic-modeling-using-robo-analyzer-/assets/128135558/2618db91-2391-403e-9e4b-7d4d88655dc0)
+
+
+
+ 
+ 
  
  
  
  
  
  
- 
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### RESULTS :  
+Therefore the  analysis of the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer and plotting  the graph of joint angle for a given  input end effector position is performed successfully.
